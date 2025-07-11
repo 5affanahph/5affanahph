@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F8A4D8&center=true&vCenter=true&multiline=true&lines=Learning+Data+Science+%26+Web+Development;Building+projects+with+HTML%2C+CSS%2C+Python;Kaggle+%7C+FreeCodeCamp+%7C+GitHub+Every+Week!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F77AC9&center=true&vCenter=true&width=435&lines=I'm+learning+Web+Dev+%26+Data+Science!;Follow+my+learning+journey+here~" alt="Typing SVG" />
 </p>
 
 ---
