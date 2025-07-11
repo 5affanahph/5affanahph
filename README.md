@@ -11,7 +11,7 @@
 
 ### 💫 About Me
 - 🏫 I'm a passionate high school student exploring tech world!
-- 📚 Currently learning *Python, **HTML/CSS, and **Data Science*
+- 📚 Currently learning Python, HTML/CSS, and Data Science
 - 🎯 Building real projects via *FreeCodeCamp* & *Kaggle*
 - ✨ Dreaming of becoming a Software Engineer or Data Scientist
 
